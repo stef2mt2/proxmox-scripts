@@ -9,7 +9,7 @@
 set -euo pipefail
 
 # Configuration
-REPO_URL="https://raw.githubusercontent.com/votre-nom/proxmox-scripts/main"
+REPO_URL="hhttps://raw.githubusercontent.com/stef2mt2/proxmox-scripts/refs/heads/scripts/proxmox-update.sh"
 INSTALL_DIR="/usr/local/sbin/proxmox-scripts"
 LOG_FILE="/var/log/proxmox-scripts-install.log"
 
